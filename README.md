@@ -12,7 +12,8 @@ The full Visual Studio Package Deployer package preparation documentation can be
 
 Steps for using this template:
 
-- Download the TemplatePackage.zip and unzip locally
+- Download the TemplatePackage.zip and unzip locally - you can download it from here
+https://github.com/davidyack/CRMEasyPackageDeploy/raw/master/TemplatePackage.zip
 
 - Edit the EasyCRMPackage.json file and change the following text
     "ShortName": "Package Short Name Here",
