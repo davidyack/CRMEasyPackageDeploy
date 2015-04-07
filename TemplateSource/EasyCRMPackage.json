@@ -1,0 +1,7 @@
+﻿{
+    "ShortName": "Package Short Name Here",
+    "LongName": "Package Long Name Here",
+    "Description": "Description Goes Here",
+    "PackageFolder":  "PkgFolder",
+
+}
